@@ -1,0 +1,57 @@
+body {
+  background-color: #f2eadd;
+}
+h3 {
+  font-style: italic;
+}
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  background-color: white;
+}
+
+main {
+  margin-top: 250px;
+  padding: 8px;
+}
+.button {
+  float: right;
+
+}
+.headerDiv {
+  text-align: center;
+}
+.img {
+  display: block;
+  margin: 0 auto;
+}
+hr {
+border-color: #f2eadd;
+}
+.img {
+  width: 100px;
+  height: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fine {
+  text-align: center;
+}
+.accettaCondizioni {
+  text-align: center;
+
+}
+.form {
+  width:50px;
+  height:50px;
+  font-size:30px
+}
+footer {
+    margin-top: 30px;
+    background-color: #e2b99f;
+    text-align: center;
+}
